@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinhadityaforever" alt="sinhadityaforever" /></a> </p>
 
-<img width='30%' src='https://res.cloudinary.com/dbh0wt0zm/image/upload/v1638699119/Socio_admin/isometric-programmer-working-desk_52683-17639-removebg-preview_ysvni5.png' align='right'/>
+<img width='50%' src='https://res.cloudinary.com/dbh0wt0zm/image/upload/v1638699119/Socio_admin/isometric-programmer-working-desk_52683-17639-removebg-preview_ysvni5.png' align='right'/>
 <p align="left"> <a href="https://twitter.com/aadeeez1" target="blank"><img src="https://img.shields.io/twitter/follow/aadeeez1?logo=twitter&style=for-the-badge" alt="aadeeez1" /></a> </p>
 
 
