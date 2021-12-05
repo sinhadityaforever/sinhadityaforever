@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hey there 👋, I'm Aditya</h1>
 <h3 align="center">A full-stack web and app developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinhadityaforever" alt="sinhadityaforever" /></a> </p>
 
-<img width='30%' src='https://res.cloudinary.com/dbh0wt0zm/image/upload/v1638698438/Socio_admin/profile-pic_1_wcm5wn.png' align='right'/>
+<img width='30%' src='https://res.cloudinary.com/dbh0wt0zm/image/upload/v1638699023/Socio_admin/isometric-programmer-working-desk_52683-17639_ca3fnt.jpg' align='right'/>
 <p align="left"> <a href="https://twitter.com/aadeeez1" target="blank"><img src="https://img.shields.io/twitter/follow/aadeeez1?logo=twitter&style=for-the-badge" alt="aadeeez1" /></a> </p>
 
 
