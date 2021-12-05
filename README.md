@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aadeeez1" target="blank"><img src="https://img.shields.io/twitter/follow/aadeeez1?logo=twitter&style=for-the-badge" alt="aadeeez1" /></a> </p>
 
-<img width='100' src='https://res.cloudinary.com/dbh0wt0zm/image/upload/v1638698438/Socio_admin/profile-pic_1_wcm5wn.png' align='right'/>
+<img width='60%' src='https://res.cloudinary.com/dbh0wt0zm/image/upload/v1638698438/Socio_admin/profile-pic_1_wcm5wn.png' align='right'/>
 
 - 1️⃣ A full-stack project 👉 [SocioApp](https://socio-app-frontend.vercel.app/)
 
