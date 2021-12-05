@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A full-stack web and app developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinhadityaforever" alt="sinhadityaforever" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/aadeeez1" target="blank"><img src="https://img.shields.io/twitter/follow/aadeeez1?logo=twitter&style=for-the-badge" alt="aadeeez1" /></a> </p>
 
 - 1️⃣ A full-stack project 👉 [SocioApp](https://socio-app-frontend.vercel.app/)
