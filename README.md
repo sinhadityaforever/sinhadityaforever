@@ -8,11 +8,9 @@
 
 
 
-- 1️⃣ A full-stack project 👉 [SocioApp](https://socio-app-frontend.vercel.app/)
-
-- 2️⃣ A frontend only project 👉 [Airbnb clone](https://airbnb-clone-teal.vercel.app/)
-
-- 3️⃣ Another frontend only project 👉 [Netflix clone](https://netflix-sable.vercel.app/)
+- 1️⃣ A full-stack Social Media App 👉 [SocioApp](https://socio-app-frontend.vercel.app/)
+- 2️⃣ A video calling app (used Agora builder) 👉 [Viddaging](https://viddaging.vercel.app/create)
+- 3️⃣ A frontend clone of Airbnb 👉 [Airbnb clone](https://airbnb-clone-teal.vercel.app/)
 
 - 💬 Ask me about **Typescript, React, Node, Flutter**
 
